@@ -1,0 +1,13 @@
+# Java / Maven
+student-backend/target/
+student-backend/.idea/
+student-backend/*.iml
+
+# React / Node
+student-frontend/node_modules/
+student-frontend/dist/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
